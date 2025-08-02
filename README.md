@@ -7,7 +7,7 @@ ___
 * Nothing can be brought to the stage.
 
 ___
-#### 🏃🏻‍♂️ My Like
+#### 🏃🏻‍♂️ My Favourite Things
 * 💻 Programming
 * 📺 Watch TV
 * 🎮 Play computer games
@@ -15,7 +15,7 @@ ___
 * X Play Pad
 
 ___
-#### ⚽ My Favourite
+#### ⚽ My Favourite sport
 * 🏀 Play basketball
 * 🏃🏻‍♂️ Run
 
