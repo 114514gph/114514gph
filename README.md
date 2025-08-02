@@ -1,5 +1,11 @@
 # 👋 Hi There! This is 114514gph.
 
+<p align="center">
+Welcome, the
+<a href="https://github.com/XiaoYouChR" target="_blank"><img src="https://count.getloli.com/get/@XiaoYouChR?theme=rule34" alt="Visitor Counter"></a>
+th vistor!
+</p>
+
 ___
 #### ✅ About ME
 * I am a 10-year-old Chinese small school student with a little programming knowledge.
