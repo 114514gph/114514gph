@@ -12,7 +12,7 @@ ___
 * Learning Language: Python.
 * Nothing can be brought to the stage.
 * 
-![](https://github-readme-stats.vercel.app/api?username=114514gph&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=114514gph)]
 
 ![](https://github-readme-stats.vercel.app/api?username=114514gph&show_icons=true&count_private=true)
 
