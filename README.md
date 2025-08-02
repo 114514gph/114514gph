@@ -6,6 +6,8 @@ ___
 * Learning Language: Python.
 * Nothing can be brought to the stage.
 
+![](https://github-readme-stats.vercel.app/api?username=114514gph&show_icons=true&count_private=true)
+
 ___
 #### 🏃🏻‍♂️ My Favourite Things
 * 💻 Programming
