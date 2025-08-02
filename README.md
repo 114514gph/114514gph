@@ -2,7 +2,7 @@
 
 <p align="center">
 Welcome, the
-<a href="https://github.com/114514gph" target="_blank"><img src="https://count.getloli.com/get/@114514gph?theme=rule34" alt="Visitor Counter"></a>
+<a href="https://github.com/114514gph" target="_blank"><img src="https://count.getloli.com/get/@114514gph?theme=rule66" alt="Visitor Counter"></a>
 th vistor!
 </p>
 
