@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋 Hi There! This is 114514gph.
 
-<!--
-**114514gph/114514gph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+#### ✅ About ME
+* I am a 10-year-old Chinese small school student with a little programming knowledge.
+* Learning Language: Python.
+* Nothing can be brought to the stage.
 
-Here are some ideas to get you started:
+___
+#### 🏃🏻‍♂️ My Like
+* 💻 Programming
+* 📺 Watch TV
+* 🎮 Play computer games
+* 📱 Play phone
+* X Play Pad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+#### ⚽ My Favourite
+* 🏀 Play basketball
+* 🏃🏻‍♂️ Run
+
+
+*******************************************************************************************
