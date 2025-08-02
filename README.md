@@ -8,7 +8,7 @@ th vistor!
 
 ___
 #### ✅ About ME
-* I am a 10-year-old Chinese small school student with a little programming knowledge.
+* I'm a 10 years old Chinese small school student with a little programming knowledge.
 * Learning Language: Python.
 * Nothing can be brought to the stage.
 
