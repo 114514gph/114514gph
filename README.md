@@ -11,6 +11,8 @@ ___
 * I'm a 10 years old Chinese small school student with a little programming knowledge.
 * Learning Language: Python.
 * Nothing can be brought to the stage.
+* 
+![](https://github-readme-stats.vercel.app/api?username=114514gph&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api?username=114514gph&show_icons=true&count_private=true)
 
