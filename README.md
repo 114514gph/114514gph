@@ -12,14 +12,14 @@ ___
 * Learning Language: Python.
 * Nothing can be brought to the stage.
 
-![](https://github-readme-stats.vercel.app/api?username=114514gph&show_icons=true&count_private=true)
+![Stats Vercel](https://github-readme-stats.vercel.app/api?username=114514gph&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=114514gph)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=114514gph)
 
 ___
 #### 👁️‍🗨️ Find ME
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:114514gph@gmail.com "Click to jump to my Gmail e-mail")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:114514gph@gmail.com "Click to jump to my Gmail e-mail")
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Bilibili+Fans&labelColor=FE7398&color=282c34&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=1167206962&longCache=true&logo=bilibili&logoColor=white)](https://space.bilibili.com/1167206962 "Click to jump to my Bilibili personal space")
 
