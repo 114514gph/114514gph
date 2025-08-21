@@ -11,10 +11,10 @@ ___
 * I'm a 10 years old Chinese small school student with a little programming knowledge.
 * Learning Language: Python.
 * Nothing can be brought to the stage.
-* 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=114514gph)]
 
 ![](https://github-readme-stats.vercel.app/api?username=114514gph&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=114514gph)]
 
 ___
 #### 👁️‍🗨️ Find ME
