@@ -19,6 +19,8 @@ ___
 ___
 #### 👁️‍🗨️ Find ME
 
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)]("My Wechat code is: bilibili_114514gph")
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:114514gph@gmail.com "Click to jump to my Gmail e-mail")
 
 [![Bilibili](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Bilibili+Fans&labelColor=FE7398&color=282c34&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=1167206962&longCache=true&logo=bilibili&logoColor=white)](https://space.bilibili.com/1167206962 "Click to jump to my Bilibili personal space")
