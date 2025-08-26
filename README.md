@@ -19,7 +19,7 @@ ___
 ___
 #### 👁️‍🗨️ Find ME
 
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)]("My Wechat code is: bilibili_114514gph")
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](… "My Wechat code is: bilibili_114514gph")
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:114514gph@gmail.com "Click to jump to my Gmail e-mail")
 
